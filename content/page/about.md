@@ -29,7 +29,12 @@ features of Alloy includes many new rich subtype facilities for factoring out
 common features and a uniform and powerful syntax for navigation
 expressions.
 
-Alloy is a product of the [Software Design Group](http://sdg.csail.mit.edu) at [MIT](http://mit.edu).
+The Alloy project originated in the [Software Design Group](http://sdg.csail.mit.edu) at [MIT](http://mit.edu)
+and is now a community open source effort, led by a team comprising:
+
+...
+
+Alloy is a product of 
 
 ### alloy team members
 
